@@ -1,0 +1,9 @@
+main {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+
+}
+.date {
+    height: 50px;
+}

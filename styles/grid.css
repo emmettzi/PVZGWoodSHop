@@ -1,0 +1,15 @@
+main {
+    display: grid;
+    align-items: center;
+    justify-items: center;
+
+}
+header {
+    height: 200px;
+}
+article {
+    height: 200px;
+}
+footer{
+    height: 200px;
+}
